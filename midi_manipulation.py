@@ -1,3 +1,5 @@
+# Code based on Dan Shiebler's RBM music generator: https://github.com/dshieble/Music_RBM
+
 import midi
 import numpy as np
 import glob  
